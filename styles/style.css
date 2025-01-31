@@ -1,0 +1,22 @@
+body {
+    background: #f0f2f5;
+    min-height: 100vh;
+}
+
+.card {
+    border-radius: 15px;
+    border: none;
+}
+
+.weather-icon {
+    width: 100px;
+    height: 100px;
+    margin: -15px 0;
+}
+
+.details {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+}
